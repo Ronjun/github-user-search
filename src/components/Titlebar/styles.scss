@@ -1,0 +1,21 @@
+
+*{
+  margin:0;
+}
+
+.title-container{
+  height: 62px;
+  width: 100vw;
+  display: flex;
+  background: #1890FF;
+  align-items: center;
+}
+
+.title-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  margin-left: 41px;
+  font-size: 24px;
+  color: #FFF;
+  text-decoration: none;
+}

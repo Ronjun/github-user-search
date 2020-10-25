@@ -1,0 +1,40 @@
+.home-container {
+  margin-top: 170px;
+  margin-left: 120px;
+
+  :Link{
+    text-decoration: none;
+  }
+}
+
+.home-title {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 64px;
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.02em;
+
+  color: #062847;
+}
+
+.home-text {
+  font-family: "Red Hat Display", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+
+  color: #5a6774;
+
+  margin-top: 24px;
+  margin-bottom: 48px;
+
+  address{
+    font-weight: normal;
+    color:#1890FF;
+    display: inline;
+  }
+}
