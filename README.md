@@ -9,7 +9,7 @@
 
 ## Sobre
  Github user search utiliza a própria API do website para cumprir o papel de busca de usuários ao informar o username do mesmo. <br/>
- Link do projeto em produção: https://ronjun-dscatalog.netlify.app/ 
+ Link do projeto em produção: https://ronjun-github-user-search.netlify.app/ 
 
 ## Instalação
 #### Pré-Requisitos
